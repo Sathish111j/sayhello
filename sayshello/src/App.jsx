@@ -11,7 +11,7 @@ function App() {
       <div>
         
         <p>
-          <h1>HI</h1>
+          <h1>Hi Everyone </h1>
         </p>
       </div>
     </>
